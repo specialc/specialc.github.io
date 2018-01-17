@@ -1,5 +1,5 @@
-# specialc.github.io
-specialc 的微博
+
+# specialc 的微博
 
 
-# special小琦琦
+## special小琦琦
